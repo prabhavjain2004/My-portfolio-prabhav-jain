@@ -311,12 +311,12 @@ body {
     color: var(--secondary-color);
 }
 
-/* .skills-grid { */
-/*     animation: scroll 40s linear infinite;
+.skills-grid { 
+/*     animation: scroll 40s linear infinite; */
     display: flex;
     width: max-content;
     gap: 2rem;
-    padding: 1rem 0; */
+    padding: 1rem 0; 
 }
 
 .skills-grid:hover {
